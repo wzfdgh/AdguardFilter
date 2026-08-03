@@ -408,3 +408,23 @@
 ||c3-cache.browser.miui.com^
 ||api-ipv4.browser.miui.com^
 ||imdns.lebo.com.cn^
+
+! Xiaohongshu
+! https://www.v2ex.com/t/1151745
+@@||ci.xiaohongshu.com^$important
+@@||edith.xiaohongshu.com^$important
+@@||live-room.xiaohongshu.com^$important
+@@||miniprogram.xiaohongshu.com^$important
+@@||pages.xiaohongshu.com^$important
+@@||picasso-static.xiaohongshu.com^$important
+@@||rec.xiaohongshu.com^$important
+@@||so.xiaohongshu.com^$important
+@@||www.xiaohongshu.com^$important
+! @@||gslb.xiaohonshu.com^$important
+||ads-*.xhscdn.com^
+||growth-img.xhscdn.com^
+||qiezibenpao.com^
+||redbascket.com^
+||sns-webpic.xhscdn.com^
+||xhslive-video.xhscnd.com^
+||xiaohongshu.com^
