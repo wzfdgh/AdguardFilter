@@ -428,3 +428,5 @@
 ||sns-webpic.xhscdn.com^
 ||xhslive-video.xhscnd.com^
 ||xiaohongshu.com^
+||crash.rnote.com^
+||gslb.rnote.com^
